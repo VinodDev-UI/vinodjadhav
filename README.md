@@ -1,5 +1,3 @@
-# vinodjadhav
-This is my introduction repository.
 
 # Hi, I'm Vinod 👋  
 
