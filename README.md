@@ -6,6 +6,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/vinod-jadhav-5312b8a4/
 
 ## 🚀 Projects
-- [Todo App](link-to-repo) - A task manager with React + Redux
-- [Weather App](link-to-repo) - Weather data using OpenWeather API
-- [E-commerce Cart](link-to-repo) - Cart system with React Context API
+- [Weather App](link-to-repo) - Weather data using Open-Meteo API
+
